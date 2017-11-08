@@ -1,10 +1,6 @@
-<h1 align="center">aframe-preact</h1>
-
+# vr-interior
+Web app for viewing your 3D models (mostly for interior design). Built upon <b><a href="https://github.com/prayasht/aframe-preact-starter">aframe-preact-starter</a><b>.
 <br/>
-
-<div align="center">
-  <img src="img/aframe-preact.png" height="200">
-</div>
 
 <h5 align="center">
   Build virtual reality experiences with <b><a href="https://aframe.io">A-Frame</a></b> and <b><a href="https://preactjs.com/">Preact</a></b>.
@@ -23,7 +19,7 @@
     * `public/` dir is fully auto-generated and served by HTTP server.  Write your code in `app/` dir.
     * Place static files you want to be copied from `app/assets/` to `public/`.
     * [Brunch site](http://brunch.io), [Getting started guide](https://github.com/brunch/brunch-guide#readme)
-  
+
 Install with [npm](https://www.npmjs.com/package/aframe-react) or
 [yarn](https://github.com/yarnpkg/yarn).
 
